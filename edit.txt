@@ -1,0 +1,3 @@
+#!/bin/sh
+set - eux
+echo "this is a test" 
